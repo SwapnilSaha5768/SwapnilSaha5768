@@ -45,18 +45,6 @@
 ### 📊 My Github Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwapnilSaha5768&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilSaha5768&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=SwapnilSaha5768&theme=tokyonight" alt="SwapnilSaha5768" />
 </div>
 
