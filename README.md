@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 My Github Stats
+<!-- ### 📊 My Github Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SwapnilSaha5768&theme=tokyonight" alt="SwapnilSaha5768" />
@@ -51,3 +51,4 @@
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
